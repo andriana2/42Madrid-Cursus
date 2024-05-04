@@ -8,4 +8,4 @@
 [Project](https://github.com/andriana2/printf)
 
 ### 📕 GET NEXT LINE
-Project
+[Project](https://github.com/andriana2/get_next_line)
