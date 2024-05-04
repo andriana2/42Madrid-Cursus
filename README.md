@@ -2,10 +2,10 @@
 
 ## 📚 Proyectos:
 ### 📘 LIBFT 
-Project (https://github.com/andriana2/libft)
+[Project](https://github.com/andriana2/libft)
 
 ### 📗 PRINTF
-Project
+[Project](https://github.com/andriana2/printf)
 
 ### 📕 GET NEXT LINE
 Project
